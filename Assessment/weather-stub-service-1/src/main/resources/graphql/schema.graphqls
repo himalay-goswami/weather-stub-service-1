@@ -1,0 +1,18 @@
+type Query{
+    getWeatherData : Weather
+    getLatestTemp : Temperature
+}
+
+type Temperature{
+    temperature:Float
+}
+
+type Weather{
+    timeStamp:String
+    location: String
+    temperature: Float
+
+}
+schema {
+    query: Query
+}
