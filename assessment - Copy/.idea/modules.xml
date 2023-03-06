@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/assessment - Copy.iml" filepath="$PROJECT_DIR$/.idea/assessment - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-stub-service-1/weather-stub-service.iml" filepath="$PROJECT_DIR$/weather-stub-service-1/weather-stub-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-stub-service-2/weather-stub-service (1).iml" filepath="$PROJECT_DIR$/weather-stub-service-2/weather-stub-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp-weather/webapp-weather.iml" filepath="$PROJECT_DIR$/webapp-weather/webapp-weather.iml" />
+    </modules>
+  </component>
+</project>
